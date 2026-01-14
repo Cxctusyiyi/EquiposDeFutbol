@@ -6,8 +6,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 import com.bumptech.glide.Glide;
-import com.google.gson.JsonObject;
-import com.google.gson.JsonParser;
+import org.json.JsonObject;
+import org.json.gson.JsonParser;
 
 public class TeamDetailActivity extends AppCompatActivity {
 
